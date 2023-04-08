@@ -6,7 +6,7 @@ https://www.hackerrank.com/certificates/2beac7b5385b<br />
 3/ SQL (Intermediate)<br />
 https://www.hackerrank.com/certificates/fc052ff823ee<br /><br />
 
-<h1>Coursera</h1><br />
+<h1>Coursera Specializations</h1><br />
 1/ Fundamental datascience<br />
 https://coursera.org/share/da79e895d662e71dd886199f59967b8d<br />
 2/ AI foundations<br />
