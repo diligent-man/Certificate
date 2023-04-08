@@ -1,12 +1,12 @@
-Certificates from:<br />
-Hack<h2>Hackerrank</h2> <br />
+<h1>Hackerrank</h1><br />
 1/ Python (Basic)<br />
 https://www.hackerrank.com/certificates/1e5ac38813ba<br />
 2/ SQL (Basic)<br />
 https://www.hackerrank.com/certificates/2beac7b5385b<br />
 3/ SQL (Intermediate)<br />
 https://www.hackerrank.com/certificates/fc052ff823ee<br /><br />
-II/ Coursera<br />
+
+<h1>Coursera<.h1><br />
 1/ Fundamental datascience<br />
 https://coursera.org/share/da79e895d662e71dd886199f59967b8d<br />
 2/ AI foundations<br />
