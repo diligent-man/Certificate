@@ -1,11 +1,10 @@
 Certificates from:
-<br I/ Hackerrank/>
-
-1/ Python (Basic)
-https://www.hackerrank.com/certificates/1e5ac38813ba
-2/ SQL (Basic)
-https://www.hackerrank.com/certificates/2beac7b5385b
-3/ SQL (Intermediate)
+I/ Hackerrank<br />
+1/ Python (Basic)I/ Hackerrank
+https://www.hackerrank.com/certificates/1e5ac38813ba<br />
+2/ SQL (Basic)<br />
+https://www.hackerrank.com/certificates/2beac7b5385b<br />
+3/ SQL (Intermediate)<br />
 https://www.hackerrank.com/certificates/fc052ff823ee
 
 II/ Coursera
