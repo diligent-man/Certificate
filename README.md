@@ -1,7 +1,7 @@
 Certificates from:
 I/ Hackerrank
-1/ Python (Basic)
-https://www.hackerrank.com/certificates/1e5ac38813ba
+1/ Python (Basic)\n
+https://www.hackerrank.com/certificates/1e5ac38813ba \n
 2/ SQL (Basic)
 https://www.hackerrank.com/certificates/2beac7b5385b
 3/ SQL (Intermediate)
